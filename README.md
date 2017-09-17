@@ -1,2 +1,2 @@
 # citi-bike
-Project related to citi-bike
+This is a project related to citi-bike
